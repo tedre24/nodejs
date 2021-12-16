@@ -1,8 +1,8 @@
 {
-  "name-web":"STACKOVERFLOW MASKODING",
-  "author":"MASKODING",
+  "name-web":"Harga dan spesifikasi",
+  "author":"Ghost",
   "remove-comment-html":true,
-  "target":"https://m.tribunnews.com",
+  "target":"https://iprice.co.id/",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "script",
